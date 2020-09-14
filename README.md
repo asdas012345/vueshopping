@@ -4,11 +4,12 @@
  * @Author: lujj
  * @Date: 2020-08-17 10:46:20
  * @LastEditors: sueRimn
- * @LastEditTime: 2020-09-14 19:10:55
+ * @LastEditTime: 2020-09-14 19:15:05
 -->
 # vueshopping
 
 ## 项目介绍
+url:http://vue.lujiajing.top/2007
 我做的是一个仿京东的一个vue项目，主要用的技术栈是vue全家桶，包括vue-router，vuex状态管理，axios服务端通讯，vue-cli4.5脚手架，vant组件库，阿里inconfont图标库，通过vue create myvueapp创建项目，然后自定义选择配置项，选择vue的版本，路由，状态管理，node-sass样式处理器，校验代码格式和测试工具。
 
 Vue框架主要用的是单文件组件的模式开发的，Vue自定义了一种.vue文件，可以把html,css,js 写到一个文件中，从而实现了对一个组件的封装。它的优点是代码集中，便于开发，管理和维护，可复用性高，直接将vue文件拷贝到新项目中。App.vue是vue项目的主文件，main.js是vue项目的入口文件。
